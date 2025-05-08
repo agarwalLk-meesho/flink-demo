@@ -29,6 +29,9 @@ mvn clean package
 java -jar target/kafka-flink-mongo-1.0-SNAPSHOT.jar
 ```
 
+4. FLink dashboard ti view Flink jobs
+<img width="1728" alt="96153f83-a095-4236-a74e-5d7497673f0e" src="https://github.com/user-attachments/assets/6d709634-ab4d-4d8c-a25f-e1748f1ed2f8" />
+
 ## Testing the Pipeline
 
 You can produce sample transaction data to Kafka using the following command:
